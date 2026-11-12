@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keyfream7001.github.io/ansok-tem/sitemap.xml
